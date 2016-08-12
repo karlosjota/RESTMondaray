@@ -1,0 +1,17 @@
+==== Desarrollo de Aplicaciones RESTFull con NodeJS ====
+
+Canal YouTube: Sergio García Mondaray (castellano)
+https://www.youtube.com/watch?v=Fhqx5k_kPjE
+
+API 
+. Application Programming Interface
+. Es la abstracción de una implementación 
+. Existen muchos tipos:
+	.Sistema operitivo
+	.Entornos de programación
+	.Servicios web
+
+Arquitectura REST
+------------------------
+REST (REpresentational State Transfer) es un tipo  de arquitectura de desarrollo web que se apoya totalmente en el estandar HTTP. REST nos permite crear servicios compatibles con cualquier dispositivo o cliente HTTP, por lo que es mucho más sencillo que antiguas alternativas, como SOAP, y XML-RPC.
+
